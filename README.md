@@ -1,8 +1,8 @@
 <h1 align="center">Hey, i'm Luis </h1>
 <p align="center"> Welcome to my GitHub</p>
           
-- 🌱 I’m currently learning Electron, a framework to Javascript
-- 📫 How to reach me: luis-henriq@live.com
+- 🌱 I’m currently learning Flask, a Library to Python
+- 📫 How to reach me: luis-henriq@live.com|luishenriqsa@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluiscase&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluiscase&layout=compact)
